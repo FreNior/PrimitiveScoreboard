@@ -27,5 +27,9 @@ h3 {
 }
 
 button {
-    font-family: 'cursed timer ULil'
+    font-family: 'cursed timer ULil';
+    color: #9AABD8;
+    background: #1B244A;
+    border: solid #9AABD8 1px;
+    padding: 3px;
 }
