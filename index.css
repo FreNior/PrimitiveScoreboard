@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: solid 1px #7DD3FC;
+    background: #1B244A;
+    padding: 7vh;
+    max-width: 70vh;
+}
+
+#num-sco1, #num-sco2 {
+    font-family: ;
+    background: black;
+    padding: 4vh;
+    border: solid darkgray 0.1mm;
+    color: red;
+    font-family: 'cursed timer ULiL';
+    font-size: 6vh;
+}
+
+h3 {
+    color: white
+}
+
+button {
+    font-family: 'cursed timer ULil'
+}
