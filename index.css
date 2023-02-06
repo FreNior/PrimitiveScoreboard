@@ -1,8 +1,7 @@
 body {
-    padding: 4vmax 40vmin;
-    margin: 40vmax 4vmin;
     background: url("basketBack.jpg");
     background-position: 100%;
+    opacity: 1;
     
 }
 
