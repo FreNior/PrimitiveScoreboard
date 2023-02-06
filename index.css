@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: url src="https://imgur.com/ZE6BmUe";
 }
 
 .container {
@@ -8,22 +9,29 @@ body {
     text-align: center;
     border: solid 1px #7DD3FC;
     background: #1B244A;
-    padding: 7vh;
+    padding: 1vh;
     max-width: 70vh;
+    border-radius: 2vh;
+    margin: 40vh;
+    min-width: 70vh;
 }
 
 #num-sco1, #num-sco2 {
-    font-family: ;
+    text-align: center;
     background: black;
     padding: 4vh;
+    margin: 4vh;
     border: solid darkgray 0.1mm;
     color: red;
     font-family: 'cursed timer ULiL';
     font-size: 6vh;
+    border-radius: 1vh;
 }
 
 h3 {
-    color: white
+    color: white;
+    font-family: Impact;
+    text-decoration-line: overline;
 }
 
 button {
@@ -32,4 +40,11 @@ button {
     background: #1B244A;
     border: solid #9AABD8 1px;
     padding: 3px;
+    border-top: dashed;
+    border-bottom: dashed;
+    border-radius: 3vh
+}
+#reset-b {
+    border-radius: 0vh;
+    margin: 2vh;
 }
