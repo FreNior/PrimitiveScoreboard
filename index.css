@@ -1,19 +1,20 @@
 body {
-    margin: 0;
-    background: url src="https://imgur.com/ZE6BmUe";
+    margin: 5vh;
+    padding: 5vh;
+    background: url("basketBack.jpeg");
 }
 
 .container {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    border: solid 1px #7DD3FC;
+    border: solid 2px #9AABD8;
     background: #1B244A;
-    padding: 1vh;
-    max-width: 70vh;
+    padding: 4vh;
     border-radius: 2vh;
-    margin: 40vh;
-    min-width: 70vh;
+    margin: 4vh;
+    min-width: 60vh;
+    max-width: 60vh;
 }
 
 #num-sco1, #num-sco2 {
