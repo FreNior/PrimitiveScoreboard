@@ -6,6 +6,7 @@ let scorGue = document.getElementById("num-sco2");
 
 function resetScoreHome() {
      return scoreCountHome = 0
+     scorHom.textContent = scoreCountHome
      }
 
 function plusOneH() {
@@ -25,6 +26,7 @@ function plusThreeH() {
 
 function resetScoreGuest() {
      scoreCountGuest = 0
+     scorHom.textContent = scoreCountGuest
 }
 function plusOneG() {
     scoreCountGuest += 1
